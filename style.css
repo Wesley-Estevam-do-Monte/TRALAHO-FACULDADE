@@ -1,9 +1,11 @@
 
 #menu {
     display: flex;
-    flex-direction: row-reverse;
     list-style: none;
     text-decoration: none;
+    position: absolute;
+    top: -4%;
+    left: 60%;
 }
 #menu a li {
     margin: 20px;
