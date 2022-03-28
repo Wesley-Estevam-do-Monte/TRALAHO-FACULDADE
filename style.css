@@ -1,0 +1,43 @@
+
+#menu {
+    display: flex;
+    flex-direction: row-reverse;
+    list-style: none;
+    text-decoration: none;
+}
+#menu a li {
+    margin: 20px;
+    padding: 15px;
+    background-color: rgba(34, 59, 139, 0.35);
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.form {
+    background-color: rgba(34, 59, 139, 0.35);
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    padding: 80px;
+    border-radius: 10px;
+
+}
+input {
+    padding: 15px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+.btn {
+
+    width: 100px;
+}
